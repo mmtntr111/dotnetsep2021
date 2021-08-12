@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'mmtwebapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_e03b2df3a58946ef819e124253a0aa23 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_db6117c8c26f41b983bafa6925c1d4b2 }}
         package: .
